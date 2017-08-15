@@ -1,7 +1,3 @@
-var x = 2;
-var y = 5;
-var z = x + y;
-console.log (z);
 document.getElementById("add").addEventListener("click", print);
 
 function print(){
